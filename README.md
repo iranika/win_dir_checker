@@ -18,5 +18,5 @@ OS : Windows8.1
 PowerShell : ver5.0
 
 # 各ファイルの説明
-check_dirs.ps1 : フォルダを監視するためのスクリプトです。
-lunch_ps1.bat : check_dirs.ps1を起動するためのバッチファイルです。
+check_dirs.ps1 : フォルダを監視するためのスクリプトです。  
+lunch_ps1.bat : check_dirs.ps1を起動するためのバッチファイルです。  
